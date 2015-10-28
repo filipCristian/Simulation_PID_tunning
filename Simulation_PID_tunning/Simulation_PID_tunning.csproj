@@ -52,6 +52,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="GA\GA_test_class.cs" />
+    <Compile Include="PID\PID.cs" />
     <Compile Include="PID\PID_test_class.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
