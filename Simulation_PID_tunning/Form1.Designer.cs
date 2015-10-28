@@ -1,6 +1,6 @@
 ﻿namespace Simulation_PID_tunning
 {
-    partial class Form1
+    partial class form_MainPage
     {
         /// <summary>
         /// Required designer variable.
@@ -28,12 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // form_MainPage
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(872, 384);
+            this.Name = "form_MainPage";
+            this.Text = "MainPage";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
     }
 }
 

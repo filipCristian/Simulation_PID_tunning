@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Simulation_PID_tunning
 {
-    public partial class Form1 : Form
+    public partial class form_MainPage : Form
     {
-        public Form1()
+        public form_MainPage()
         {
             InitializeComponent();
         }
